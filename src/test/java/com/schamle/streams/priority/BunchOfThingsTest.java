@@ -1,5 +1,7 @@
-package com.schamle.streams;
+package com.schamle.streams.priority;
 
+import com.schamle.streams.priority.BunchOfThings;
+import com.schamle.streams.priority.Thing;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

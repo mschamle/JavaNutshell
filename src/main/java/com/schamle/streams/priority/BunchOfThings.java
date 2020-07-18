@@ -1,4 +1,4 @@
-package com.schamle.streams;
+package com.schamle.streams.priority;
 
 import lombok.Builder;
 
